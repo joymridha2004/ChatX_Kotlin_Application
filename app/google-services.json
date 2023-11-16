@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "47997766124",
+    "firebase_url": "https://chatx-kotlin-application-default-rtdb.firebaseio.com",
     "project_id": "chatx-kotlin-application",
     "storage_bucket": "chatx-kotlin-application.appspot.com"
   },
