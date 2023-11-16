@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47997766124",
+    "project_id": "chatx-kotlin-application",
+    "storage_bucket": "chatx-kotlin-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47997766124:android:90d35efd9f4f71aeb298c9",
+        "android_client_info": {
+          "package_name": "com.example.chatx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6xmkE3PKTFz4x1yh1x9tp5BFnQ2cV92o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
